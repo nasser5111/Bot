@@ -219,6 +219,6 @@ client.user.setGame(`Light Games`,"http://twitch.tv/Light")
 client.user.setStatus("dnd")
 });
 
-
+.
 
 client.login(process.env.BOT_TOKEN);// لا تغير فيها شيء
